@@ -1,6 +1,6 @@
 # Enseigner le traitement de données radar de sol par feuilles de calcul Jupyter : applications en archéologie
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/asaintenoy/2023-10-24_GEOFCAN_GPR_JUPYTER.git/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/asaintenoy/2023-10-24_GEOFCAN_GPR_JUPYTER.git/HEAD?labpath=README.md)
 Tester les notebook en ligne en cliquant sur le lien binder ci-devant
 
 Matériel de la présentation d'Albane Saintenoy à la conférence GEOFCAN 2023 qui a eu lieu à Strasbourg.
