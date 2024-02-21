@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DZX xmlns="www.geophysical.com/DZX/1.02">
+    <GlobalProperties>
+        <verticalUnit>m</verticalUnit>
+        <horizontalUnit>m</horizontalUnit>
+        <dielectric>9</dielectric>
+        <readOnly>0</readOnly>
+        <unitsPerMark>0.200000</unitsPerMark>
+        <unitsPerScan>0.016667</unitsPerScan>
+    </GlobalProperties>
+    <DataCollection>
+        <system>UtilityScanHS</system>
+        <softwareVersion>1.4.35</softwareVersion>
+        <Ctable>0</Ctable>
+        <colorStretch>0.000000</colorStretch>
+        <colorSlide>0.000000</colorSlide>
+        <displayGain>0</displayGain>
+        <depthRange>4.000000</depthRange>
+        <originalDielectric>9.000000</originalDielectric>
+        <scanPerMeters>60.000000</scanPerMeters>
+        <dielectricOffset>0.000000</dielectricOffset>
+    </DataCollection>
+    <Macro>
+        <state>0</state>
+        <Process>
+            <state>0</state>
+            <BinaryData size="16">0$``!```""`!C`0```````"`@
+</BinaryData>
+        </Process>
+        <Process>
+            <state>0</state>
+            <BinaryData size="72">M2``!```"0``$"``````#"`````````````````````#H`\@```#_`0``````
+;````````````````````````````````````
+</BinaryData>
+        </Process>
+        <Process>
+            <state>0</state>
+            <BinaryData size="44">L+``!```")`!-$.0X#L'D.`[!`````!W'L4(````````````````````````@
+</BinaryData>
+        </Process>
+        <Process>
+            <state>0</state>
+            <BinaryData size="24">8&amp;``!`,T!$`!4`0``````````````````
+</BinaryData>
+        </Process>
+        <Process>
+            <state>0</state>
+            <BinaryData size="24">8&amp;``!`,T!$`!4`0``````````````````
+</BinaryData>
+        </Process>
+        <Process>
+            <state>0</state>
+            <BinaryData size="150">ME@`!`,T!C@`[!@``````````````````````````````````````````````
+M````````````````````````````````Y$(``$!`````````````````````
+M````````````````````````````````````````````````````````````
+/````````````````````
+</BinaryData>
+        </Process>
+    </Macro>
+    <File>
+        <scanRange>0,1779</scanRange>
+        <name>FILE__004.DZT</name>
+        <Profile>
+            <scanRange>0,1779</scanRange>
+            <Comment>
+                <scan>0</scan>
+                <description>Data Collection Notes: </description>
+            </Comment>
+        </Profile>
+    </File>
+</DZX>
