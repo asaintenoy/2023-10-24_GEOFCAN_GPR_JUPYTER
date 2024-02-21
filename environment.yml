@@ -1,0 +1,20 @@
+name: teachGPR
+
+channels:
+- conda-forge
+
+dependencies:
+- python
+- jupyterlab
+- ipywidgets
+- matplotlib-base
+- numpy
+- pandas
+- scipy
+- pywavelets
+- h5py
+- pip
+- pip:
+  - readgssi
+  - pytz
+  - obspy
