@@ -11,3 +11,5 @@ Matériel de la présentation d'Albane Saintenoy à la conférence GEOFCAN 2023 
 ## Licence 
 
 "Enseigner le traitement de données radar de sol par feuilles de calcul Jupyter : applications en archéologie" © 2023 by Albane Saintenoy is licensed under Attribution-NonCommercial-ShareAlike 4.0 International 
+
+Voir https://creativecommons.org/licenses/by-nc-sa/4.0/ 
